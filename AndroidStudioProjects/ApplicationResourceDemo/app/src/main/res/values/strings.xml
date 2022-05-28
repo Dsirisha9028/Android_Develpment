@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Resource Demo</string>
+    <string name="message1">Welcome to Android Mobile Application Development</string>
+    <string name="message2">Welcome to Application Resource Demonstrator</string>
+</resources>
